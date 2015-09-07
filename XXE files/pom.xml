@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE project [ 
-	<!ENTITY xxeattack SYSTEM "http://google.com"> 
+	<!ENTITY xxe SYSTEM "file:///D:/file.txt" >
 ]>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -13,7 +13,7 @@
 
     <build>
         <plugins>
-            <plugin>&xxeattack;</plugin>
+            <plugin>&xxe;</plugin>
         </plugins>
     </build>
 	
