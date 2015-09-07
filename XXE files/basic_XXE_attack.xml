@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE test [ 
-    <!ENTITY xxeattack SYSTEM "file:///etc/passwd"> 
+	<!ELEMENT xxx ANY>
+    <!ENTITY xxeattack SYSTEM "http://google.com"> 
 ]>
 <xxx>&xxeattack;</xxx>
