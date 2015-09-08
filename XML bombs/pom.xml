@@ -22,9 +22,8 @@
 
     <build>
         <plugins>
-            <plugin>&lol9;</plugin>
+            <plugin></plugin>
         </plugins>
     </build>
-
-
+	
 </project>
