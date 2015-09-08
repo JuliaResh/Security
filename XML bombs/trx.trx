@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE lolz [
  <!ENTITY lol "lol">
  <!ENTITY lol1 "&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;">
@@ -12,7 +12,6 @@
  <!ENTITY lol9 "&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;">
 ]>
 
-<?xml version="1.0" encoding="UTF-8"?>
 <TestRun id="d3185a80-2790-46e2-ae2b-2e3707ddf28e" name="Julia.Reshetnikova@UNIT-539 2015-04-09 16:45:07" runUser="LABS\Julia.Reshetnikova" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
   <Times creation="2015-04-09T16:45:07.4122988+03:00" queuing="2015-04-09T16:45:07.4122988+03:00" start="2015-04-09T16:45:07.4163040+03:00" finish="2015-04-09T16:45:07.4503356+03:00" />
   <TestSettings name="default" id="b69f29b5-b043-4b7e-bdb8-dd8eb53de2ab">
