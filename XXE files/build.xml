@@ -4,7 +4,5 @@
     <!ENTITY xxeattack SYSTEM "file:///D:/file.txt"> 
 ]>
 <project name="test-xml-attacks" default="default">
-	<target name=&xxeattack;>
-		<file>&xxeattack;</file>
-	</target>
+	<target name="default">&xxeattack;</target>
 </project>
